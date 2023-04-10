@@ -1,0 +1,2 @@
+C:\Users\Kirill\Desktop\DigitalDesignTestRepo\Release\DigitalDesignTestTask.pdb
+C:\Users\Kirill\Desktop\DigitalDesignTestRepo\Release\DigitalDesignTestTask.exe

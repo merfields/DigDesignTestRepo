@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGBnA1aetnck6Y2W4nGjuC2bp2s/VNR57Aj7kfqPevkQxGuKeB0SdLcg8on1XBLwIp90qw5bbXs4irSiv+4nVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\Desktop\\DigitalDesignTestRepo\\DigitalDesignTestTask\\DigitalDesignTestTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.13\\microsoft.netcore.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.13\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.13.nupkg.sha512",
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.13\\microsoft.aspnetcore.app.runtime.win-x86.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
